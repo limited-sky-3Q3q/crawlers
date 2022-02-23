@@ -1,0 +1,11 @@
+flask
+requests
+sheen
+redis
+apscheduler
+hiredis
+gunicorn==19.9.0
+pillow
+pytesseract
+aiohttp
+lxml
