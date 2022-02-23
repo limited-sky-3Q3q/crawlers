@@ -1,0 +1,14 @@
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+1643880563304	geckodriver	INFO	Listening on 127.0.0.1:51991
+1643891460349	geckodriver	INFO	Listening on 127.0.0.1:53178
